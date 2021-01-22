@@ -18,7 +18,7 @@ const siteConfig = {
   title: 'React-Leaflet',
   tagline: '⚛️ React components for 🍃 Leaflet maps',
   url: 'https://react-leaflet.js.org',
-  baseUrl: '/legacy/',
+  baseUrl: '/',
   useEnglishUrl: true,
   headerLinks: [
     { doc: 'intro', label: 'Getting started' },
