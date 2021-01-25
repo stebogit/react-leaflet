@@ -51,7 +51,12 @@ const SplashContainer = props => (
 const ProjectTitle = () => (
   <h2 className="projectTitle">
     <Logo />
-    <small>{siteConfig.tagline}</small>
+    <small style={{ marginBottom: 0 }}>{siteConfig.tagline}</small>
+    <small style={{ fontSize: '35%', marginTop: 20, color: 'red' }}>
+      <strong>
+        This site runs the documentation for the legacy v2.x, no longer supported
+      </strong>
+    </small>
   </h2>
 )
 

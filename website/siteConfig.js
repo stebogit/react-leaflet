@@ -6,8 +6,8 @@
  */
 
 const siteConfig = {
-  title: 'React-Leaflet',
-  tagline: '⚛️  React components for 🍃 Leaflet maps, v2.x',
+  title: 'React-Leaflet (legacy v2.x )',
+  tagline: '⚛️  React components for 🍃 Leaflet maps',
   url: 'https://react-leaflet-v2-docs.netlify.app/',
   baseUrl: '/',
   useEnglishUrl: true,
@@ -23,8 +23,7 @@ const siteConfig = {
     primaryColor: '#41957a',
     secondaryColor: '#2C5145',
   },
-  copyright:
-    'Copyright © ' + new Date().getFullYear() + ' Paul Le Cam and contributors',
+  copyright: 'Copyright © 2020 Paul Le Cam and contributors',
   organizationName: 'PaulLeCam',
   projectName: 'react-leaflet',
   cleanUrl: true,

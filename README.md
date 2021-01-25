@@ -1,7 +1,8 @@
 # React-Leaflet v2.x
 
-This fork is only meant to provide convenient access to the legacy documentation and the code of v2.x of the
-️ [React-Leaflet][1] library, which for some reason was removed from the web (ref. issues [#812][2] and [#826][3]).
+This fork is only meant to provide convenient access to the legacy documentation and the code of v2.x (no longer
+ supported) of the️ [React-Leaflet][1] library, which for some reason was removed from the web (ref. issues
+ [#812][2] and [#826][3]).
 
 ---
 

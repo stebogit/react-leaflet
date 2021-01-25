@@ -21,7 +21,6 @@ class Footer extends React.Component {
   }
 
   render() {
-    const currentYear = new Date().getFullYear()
     const language = this.props.language || 'en'
 
     return (
@@ -72,7 +71,7 @@ class Footer extends React.Component {
           </div>
         </section>
         <section className="copyright">
-          Copyright &copy; {currentYear} Paul Le Cam and{' '}
+          Copyright &copy; 2020 Paul Le Cam and{' '}
           <a href="https://github.com/stebogit/react-leaflet/graphs/contributors">
             contributors
           </a>
