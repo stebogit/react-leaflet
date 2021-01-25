@@ -7,7 +7,7 @@ original_id: intro
 ## Core concepts
 
 React-Leaflet uses
-[⚛️ React's lifecycle methods](https://facebook.github.io/react/docs/component-specs.html#lifecycle-methods)
+[⚛️ &nbsp;React's lifecycle methods](https://facebook.github.io/react/docs/component-specs.html#lifecycle-methods)
 to call the relevant Leaflet handlers, which has a few consequences:
 
 ### DOM rendering
@@ -30,7 +30,7 @@ how their changes are compared in other ways.
 
 ### Component context
 
-React-Leaflet uses [⚛️ React's context API](https://facebook.github.io/react/docs/context.html) to make
+React-Leaflet uses [⚛️ &nbsp;React's context API](https://facebook.github.io/react/docs/context.html) to make
 Leaflet elements available to other element that need it.\
 If you create custom components, you may need to access the following instances from
 the context:

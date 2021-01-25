@@ -1,7 +1,7 @@
 {
   "name": "react-leaflet",
   "version": "2.8.0",
-  "description": "React components for Leaflet maps",
+  "description": "React components for Leaflet maps, v2.x",
   "main": "lib/index.js",
   "module": "es/index.js",
   "jsnext:main": "es/index.js",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/PaulLeCam/react-leaflet.git"
+    "url": "https://github.com/stebogit/react-leaflet.git"
   },
   "keywords": [
     "react-component",
@@ -38,9 +38,9 @@
   "author": "Paul Le Cam <paul@ulem.net>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PaulLeCam/react-leaflet/issues"
+    "url": "https://github.com/stebogit/react-leaflet/issues"
   },
-  "homepage": "https://github.com/PaulLeCam/react-leaflet",
+  "homepage": "https://github.com/stebogit/react-leaflet",
   "files": [
     ".babelrc",
     "dist/*",

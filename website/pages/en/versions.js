@@ -37,21 +37,17 @@ class Versions extends React.Component {
               This is the version that is configured automatically when you
               first install this project.
             </p>
-            <table className="versions">
-              <tbody>
-                <tr>
-                  <th>v3</th>
-                  <td>
-                    <a href="/">Documentation</a>
-                  </td>
-                  <td>
-                    <a href="https://github.com/PaulLeCam/react-leaflet/releases/latest">
-                      Release Notes
-                    </a>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
+
+            <a href="https://react-leaflet.js.org/" target="_blank" rel="nofollow noreferrer">
+              Documentation
+            </a>
+            <br />
+            <a
+              href="https://github.com/PaulLeCam/react-leaflet/releases/latest"
+              target="_blank" rel="nofollow noreferrer">
+              Release Notes
+            </a>
+
             <h3 id="latest">Previous major version</h3>
             <table className="versions">
               <tbody>
@@ -81,39 +77,7 @@ class Versions extends React.Component {
                 </tr>
               </tbody>
             </table>
-            {/* <h3 id="rc">Pre-release versions</h3>
-            <table className="versions">
-              <tbody>
-                <tr>
-                  <th>master</th>
-                  <td>
-                    <a href={''}>Documentation</a>
-                  </td>
-                  <td>
-                    <a href={''}>Release Notes</a>
-                  </td>
-                </tr>
-              </tbody>
-            </table> */}
             <h3 id="archive">Past versions</h3>
-            {/* <table className="versions">
-              <tbody>
-                {versions.map(
-                  version =>
-                    version !== latestVersion && (
-                      <tr>
-                        <th>{version}</th>
-                        <td>
-                          <a href={''}>Documentation</a>
-                        </td>
-                        <td>
-                          <a href={''}>Release Notes</a>
-                        </td>
-                      </tr>
-                    ),
-                )}
-              </tbody>
-            </table> */}
             <p>
               You can find past versions of this project{' '}
               <a href="https://github.com/PaulLeCam/react-leaflet/releases">

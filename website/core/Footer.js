@@ -48,7 +48,7 @@ class Footer extends React.Component {
             <a href="https://stackoverflow.com/questions/tagged/react-leaflet">
               Stack Overflow
             </a>
-            <a href="https://github.com/PaulLeCam/react-leaflet">GitHub</a>
+            <a href="https://github.com/stebogit/react-leaflet">GitHub</a>
             <a
               className="github-button"
               href={this.props.config.repoUrl}
@@ -73,7 +73,7 @@ class Footer extends React.Component {
         </section>
         <section className="copyright">
           Copyright &copy; {currentYear} Paul Le Cam and{' '}
-          <a href="https://github.com/PaulLeCam/react-leaflet/graphs/contributors">
+          <a href="https://github.com/stebogit/react-leaflet/graphs/contributors">
             contributors
           </a>
           .

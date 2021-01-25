@@ -3,7 +3,7 @@
   "localized-strings": {
     "next": "Next",
     "previous": "Previous",
-    "tagline": "⚛️ React components for 🍃 Leaflet maps",
+    "tagline": "⚛️  React components for 🍃 Leaflet maps",
     "docs": {
       "class-hierarchy": {
         "title": "Class hierarchy"
@@ -59,9 +59,6 @@
       "version-v1/version-v1-intro": {
         "title": "Introduction"
       },
-      "version-v1/version-v1-logo-and-branding": {
-        "title": "Logo & Branding"
-      },
       "version-v1/version-v1-plugins": {
         "title": "Third-party plugins"
       },
@@ -95,9 +92,6 @@
       "version-v2/version-v2-intro": {
         "title": "Introduction"
       },
-      "version-v2/version-v2-logo-and-branding": {
-        "title": "Logo & Branding"
-      },
       "version-v2/version-v2-plugins": {
         "title": "Third-party plugins"
       },
@@ -107,9 +101,7 @@
     },
     "links": {
       "Getting started": "Getting started",
-      "API": "API",
-      "Help": "Help",
-      "GitHub": "GitHub"
+      "API": "API"
     },
     "categories": {
       "Getting started": "Getting started",

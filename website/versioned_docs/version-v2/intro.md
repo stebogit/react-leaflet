@@ -6,7 +6,7 @@ original_id: intro
 
 ## Core concepts
 
-React-Leaflet uses [⚛️ React's lifecycle methods](https://reactjs.org/docs/react-component.html#the-component-lifecycle) to call the relevant Leaflet handlers, which has a few consequences:
+React-Leaflet uses [⚛️ &nbsp;React's lifecycle methods](https://reactjs.org/docs/react-component.html#the-component-lifecycle) to call the relevant Leaflet handlers, which has a few consequences:
 
 ### DOM rendering
 
@@ -20,7 +20,7 @@ Dynamic properties changes are compared by reference, except for properties docu
 
 ### Component context
 
-React-Leaflet v2 uses [⚛️ React's context API](https://reactjs.org/docs/context.html) to make Leaflet elements available to other element that need it.\
+React-Leaflet v2 uses [⚛️ &nbsp;React's context API](https://reactjs.org/docs/context.html) to make Leaflet elements available to other element that need it.\
 If you create [custom components](custom-components.md), make sure to learn about React's context and [how it is used by React-Leaflet](context.md).
 
 ## Lifecycle process

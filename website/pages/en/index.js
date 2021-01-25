@@ -88,12 +88,12 @@ const Description = props => (
     <p>
       React-Leaflet provides an abstraction of{' '}
       <a href="http://leafletjs.com/">🍃 Leaflet</a> as{' '}
-      <a href="https://facebook.github.io/react/">⚛️ React components</a>.
+      <a href="https://facebook.github.io/react/">⚛️&nbsp; React components</a>.
     </p>
     <p>
       It <strong>does not</strong> replace Leaflet, only leverages{' '}
       <a href="https://reactjs.org/docs/react-component.html#the-component-lifecycle">
-        ⚛️ React&apos;s lifecycle methods
+        ⚛️&nbsp; React&apos;s lifecycle methods
       </a>{' '}
       to call the relevant Leaflet handlers. You can read more information about
       the lifecycle process in the{' '}

@@ -5,26 +5,15 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-// const users = [
-//   {
-//     caption: 'User1',
-//     image: '/test-site/img/docusaurus.svg',
-//     infoLink: 'https://www.facebook.com',
-//     pinned: true,
-//   },
-// ]
-
 const siteConfig = {
   title: 'React-Leaflet',
-  tagline: '⚛️ React components for 🍃 Leaflet maps',
-  url: 'https://react-leaflet.js.org',
+  tagline: '⚛️  React components for 🍃 Leaflet maps, v2.x',
+  url: 'https://react-leaflet-v2-docs.netlify.app/',
   baseUrl: '/',
   useEnglishUrl: true,
   headerLinks: [
     { doc: 'intro', label: 'Getting started' },
     { doc: 'components', label: 'API' },
-    { page: 'help', label: 'Help' },
-    { href: 'https://github.com/PaulLeCam/react-leaflet', label: 'GitHub' },
   ],
   users: [],
   favicon: 'img/favicon.png',
@@ -45,7 +34,7 @@ const siteConfig = {
   },
   onPageNav: 'separate',
   scripts: ['https://buttons.github.io/buttons.js'],
-  repoUrl: 'https://github.com/PaulLeCam/react-leaflet',
+  repoUrl: 'https://github.com/stebogit/react-leaflet',
 }
 
 module.exports = siteConfig
